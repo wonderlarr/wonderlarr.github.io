@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "portfolio/stuff"
+    url: https://ubuntu.com/
+  - title: "blog"
+    url: https://ubuntu.com/
+  - title: "whoami"
+    url: https://ubuntu.com/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
